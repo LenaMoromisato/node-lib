@@ -1,6 +1,6 @@
 # Curso Node.js: criando sua primeira biblioteca (Programa Desenvolve da Boticário e Alura)
 
-> Status do projeto: em desenvolvimento
+> Status do projeto: concluído
 
 Conteúdo do curso:
 
@@ -13,4 +13,6 @@ Conteúdo do curso:
 * Manipular os resultados extraídos do texto através de expressões regulares e montar um objeto de retorno utilizando a sintaxe do JavaScript e desestruturação de objetos com o spread operator **...**;
 * Utilizar a interface de linha de comando e como aplicar a lib **process** do Node.js para capturar e utilizar os dados informados no terminal no código; 
 * Como fazer estes diversos arquivos conversarem entre si através da exportação e importação de módulos com **import** e **export**;
-* Que scripts são instruções que usamos para automatizar tarefas e como escrever nossos próprios scripts, incluí-los no arquivo de configuração package.json e utilizá-los para executar comandos no terminal.
+* Que scripts são instruções que usamos para automatizar tarefas e como escrever nossos próprios scripts, incluí-los no arquivo de configuração package.json e utilizá-los para executar comandos no terminal;
+* Acessar URLs com a API **fetch** e manipular os dados devolvidos, como o código de status HTTP;
+* Utilizar o método **Promise.all** para acessar de forma assíncrona um array de URLs e receber o resultado.
